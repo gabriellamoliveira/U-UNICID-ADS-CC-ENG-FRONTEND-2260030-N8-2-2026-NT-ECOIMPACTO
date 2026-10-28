@@ -1,0 +1,5 @@
+EcoFuture — versão profissional para GitHub Pages
+
+Extraia o ZIP e envie todos os arquivos para a raiz do repositório GitHub. Depois, ative Settings → Pages → Deploy from a branch → main → /(root).
+
+Leia README.md para instruções detalhadas.
