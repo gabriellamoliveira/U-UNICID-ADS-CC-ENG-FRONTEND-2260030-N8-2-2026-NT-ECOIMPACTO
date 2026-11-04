@@ -1,0 +1,4 @@
+EcoFuture — versão reorganizada para a rubrica.
+Leia README.md e docs/matriz-rubrica.md.
+Publique todos os arquivos na raiz do repositório GitHub Pages.
+Atenção: formulário demonstrativo sem envio para servidor.
